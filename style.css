@@ -375,8 +375,9 @@ header {
     padding: 15px;
 }
 
-.block4-button a {
-
+.block4-button button {
+    background-color: transparent;
+    border: none;
     color: #f2f2f2;
 
 }
